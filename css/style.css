@@ -1,5 +1,10 @@
+body{
+    background-color: goldenrod;}
 h1 {
     background-color: pink;
     padding: 10px;
     border-radius: 5px;
+}
+li {
+    border: solid 2px green;
 }
